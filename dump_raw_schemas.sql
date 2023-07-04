@@ -1,4 +1,4 @@
-.echo on;
+.echo on
 DESCRIBE bike_data;
 DESCRIBE central_park_weather;
 DESCRIBE daily_citi_bike_trip_counts_and_weather;
@@ -7,3 +7,11 @@ DESCRIBE fhv_tripdata;
 DESCRIBE fhvhv_tripdata; 
 DESCRIBE green_tripdata;
 DESCRIBE yellow_tripdata;
+SHOW bike_data;
+SHOW central_park_weather;
+SHOW daily_citi_bike_trip_counts_and_weather;
+SHOW fhv_bases;
+SHOW fhv_tripdata;
+SHOW fhvhv_tripdata; 
+SHOW green_tripdata;
+SHOW yellow_tripdata;
